@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E389EC44-05F5-47A0-AEF2-01701C5DD68A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>datascience</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF6762DB-E94F-4BFB-A946-1A4DFB0606A4</key>
+		<string>https://github.com/scdhuang/datasciencecoursera.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>datascience/datascience.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF6762DB-E94F-4BFB-A946-1A4DFB0606A4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scdhuang/datasciencecoursera.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF6762DB-E94F-4BFB-A946-1A4DFB0606A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF6762DB-E94F-4BFB-A946-1A4DFB0606A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>datasciencecoursera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
